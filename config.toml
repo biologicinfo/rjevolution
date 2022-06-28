@@ -1,4 +1,5 @@
 baseURL = 'https://biologicinfo.github.io/rjevolution'
-languageCode = 'en-us'
-title = 'Aging and rejuvenation'
+languageCode = 'it-it'
+DefaultContentLanguage = "it"
+title = 'Scienze biologiche e ringiovanimento'
 theme = "ananke"
