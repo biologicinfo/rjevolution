@@ -2,6 +2,7 @@
 title: "Invecchiare in Salute è un Ossimoro"
 date: 2018-06-15T17:45:42+02:00
 draft: false
+tags: ["faq", "logica", "salute", "traduzioni"]
 ---
 
 # Invecchiare in salute è un ossimoro
