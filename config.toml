@@ -10,3 +10,18 @@ weight = 0
 identifier = "about" # this button will refer to a markdown file named "about" in the content folder
 pre = "<br />"
 url = "/pages/about"
+
+[[menu.main]]
+name = "News"
+weight = 0
+identifier = "news" # this button will refer to a markdown file named "news" in the content folder
+pre = "<br />"
+url = "/pages/news"
+
+
+[[menu.main]]
+name = "Papers"
+weight = 0
+identifier = "papers" # this button will refer to a markdown file named "papers" in the content folder
+pre = "<br />"
+url = "/papers"
