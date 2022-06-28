@@ -3,3 +3,10 @@ languageCode = 'it-it'
 DefaultContentLanguage = "it"
 title = 'Scienze biologiche e ringiovanimento'
 theme = "ananke"
+
+[[menu.main]]
+name = "About"
+weight = 0
+identifier = "about" # this button will refer to a markdown file named "about" in the content folder
+pre = "<br />"
+url = "/pages/about"
