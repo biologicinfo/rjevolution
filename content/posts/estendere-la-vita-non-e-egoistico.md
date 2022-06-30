@@ -1,26 +1,23 @@
 ---
 title: "Estendere la Vita Non è Egoistico"
-date: 2022-06-28T18:31:23+02:00
+date: 2022-04-27T18:31:23+02:00
 draft: false
 tags: ["etica", "faq", "leaf", "logica", "traduzioni"]
 ---
 
-Editore: Life extension advocacy foundation
-
-Data di pubblicazione: 27/04/2022
-Data di modifica: 06/23/2022
-
-La discussione sul potenziale di rallentamento o addirittura di inversione dell'invecchiamento è diventata più popolare negli ultimi anni, ma alcuni suggeriscono che è egoistico farlo. L'argomentazione è che le persone interessate ad allungare la vita pensano solo ai propri benefici personali, trascurando il bene comune. Qui valutiamo se questa obiezione all'aumento della vita umana in buona salute sia valida.
+La discussione sul potenziale di rallentamento o addirittura di inversione dell'invecchiamento è diventata più popolare negli ultimi anni, ma alcuni suggeriscono che è egoistico farlo. L'argomentazione è che le persone interessate ad allungare la vita pensano solo ai propri benefici personali, trascurando il bene comune. Qui valutiamo se questa obiezione all'**estensione della vita umana in buona salute** sia valida.
 
 ## La ricerca sull'invecchiamento e il ringiovanimento stanno guadagnando popolarità
 
 Il tema dell'estensione della vita è diventato più popolare e visibile negli ultimi anni. La copertura dei media mainstream è in aumento e, di conseguenza, sempre più persone discutono e dibattono sulla sua desiderabilità. Sfortunatamente, questo significa che più persone al di fuori del settore ne parlano, e non sempre in modo accurato.
 
-Gli articoli dei media mainstream possono spesso essere conservatori nel migliore dei casi e allarmistici nel peggiore. Tendono a concentrarsi sui potenziali aspetti negativi delle tecnologie di prolungamento della vita senza prestare molta (o addirittura nessuna) attenzione ai potenziali benefici.
+Gli articoli dei media mainstream possono spesso essere conservatori nel migliore dei casi e allarmistici nel peggiore. Tendono a concentrarsi sui potenziali aspetti negativi delle tecnologie di estensione della vita senza prestare molta (o addirittura nessuna) attenzione ai potenziali benefici.
 
-Ciò è spesso dovuto a una mancanza di comprensione e a un'interpretazione errata degli obiettivi del prolungamento della vita, di cosa sia e cosa non sia. In definitiva, l'obiettivo è quello di rendere indistinguibili, a ogni livello fisico, persone cronologicamente vecchie e giovani.
+Ciò è spesso dovuto a una **mancanza di comprensione** e a un'interpretazione errata degli obiettivi del prolungamento della vita, di cosa sia e cosa non sia. In definitiva, l'obiettivo è quello di rendere indistinguibili, a ogni livello fisico, persone cronologicamente vecchie e giovani.
 
-Il vantaggio principale è che rendendo una persona biologicamente più giovane si dovrebbe ridurre il rischio di sviluppare le malattie note dell'invecchiamento, come il cancro, le malattie cardiache, l'Alzheimer, il Parkinson, il diabete e così via. Questo perché l'avanzare dell'età biologica è il principale fattore di rischio per queste e molte altre malattie legate all'età. I ricercatori in questo campo sperano che, trattando i motivi per cui invecchiamo, si possano affrontare contemporaneamente più malattie legate all'età. In questo modo, una sana longevità sarebbe anche un probabile effetto collaterale positivo del rendere una persona anziana biologicamente più giovane.
+Il vantaggio principale è che rendendo una persona biologicamente più giovane si dovrebbe ridurre il rischio di sviluppare le malattie note dell'invecchiamento, come il cancro, le malattie cardiache, l'Alzheimer, il Parkinson, il diabete e così via. Questo perché l'avanzare dell'età biologica è il principale fattore di rischio per queste e molte altre malattie legate all'età (vedi [geroscienza](/rjevolution/posts/cosa-e-la-geroscienza), NdR). I ricercatori in questo campo sperano che, trattando i motivi per cui invecchiamo, si possano affrontare contemporaneamente più malattie legate all'età. In questo modo, una sana longevità sarebbe anche un probabile effetto collaterale positivo del rendere una persona anziana biologicamente più giovane.
+
+> ["Estensione della vita" è semplicemente un diverso modo di dire "medicina"](https://youtu.be/GoJsr4IwCm4?t=245)
 
 Purtroppo, ogni volta che si discute di aumentare la durata della vita umana in buona salute, emerge sicuramente l'argomento dell'egoismo. Non è difficile capire perché questa argomentazione a basso sforzo contro il prolungamento della vita sia errata.
 
@@ -38,7 +35,7 @@ Sconfiggere l'invecchiamento non vi servirà a molto se, ad esempio, il cambiame
 
 ## Molti estensori della vita si preoccupano dell'accesso alle biotecnologie di ringiovanimento
 
-Più vicino a noi, il temuto spettro della disparità di accesso all'assistenza sanitaria e alla tecnologia in generale è un problema estremamente importante per gli estensori della vita, perché, a differenza di ciò che innumerevoli articoli clickbait vogliono far credere, la maggior parte degli estensori della vita non sono miliardari della tecnologia; sono persone comuni che non sarebbero in grado di permettersi terapie supercostose, e potete scommettere che saranno i primi a fare pressioni per un accesso a basso costo alle terapie nel momento in cui saranno disponibili, se non prima.
+Più vicino a noi, il temuto spettro della disparità di accesso all'assistenza sanitaria e alla tecnologia in generale è un problema estremamente importante per gli estensori della vita, perché, a differenza di ciò che innumerevoli articoli clickbait vogliono far credere, la maggior parte degli estensori della vita non sono miliardari tecnologici; sono persone comuni che non sarebbero in grado di permettersi terapie supercostose, e potete scommettere che saranno i primi a fare pressioni per un accesso a basso costo alle terapie nel momento in cui saranno disponibili, se non prima.
 
 Come nota positiva, lo scenario distopico di pochi ricchi che si accaparrano la biotecnologia del ringiovanimento mentre il resto del mondo viene lasciato invecchiare fino alla morte diventa molto difficile da credere quando si nota che è autolesionista: più persone rimangono escluse dal ringiovanimento, più grande sarà la folla inferocita che si ribellerà ai pochi ricchi egoisti che tengono la tecnologia per sé.
 
@@ -65,3 +62,8 @@ Allo stesso modo, non molti sollevano il potenziale effetto collaterale della so
 In conclusione, qualcuno è egoista quando le sue azioni vanno a beneficio solo di lui a scapito degli altri; se fatto bene, il prolungamento della vita sarà il più grande beneficio di tutti i tempi, per gli individui, i loro cari e la società in generale. È difficile immaginare come tutto ciò possa essere considerato egoista.
 
 Traduzione di: https://www.lifespan.io/topic/life-extension-is-not-selfish/
+
+## Vedi anche
+
+* [Why Age? Should We End Aging Forever? | Kurzgesagt – In a Nutshell](https://youtu.be/GoJsr4IwCm4)
+* https://business.facebook.com/RejuvenatingMemesForMillenarianTeens/photos/a.870564139762698/874513352701110
