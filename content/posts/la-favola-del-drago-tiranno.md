@@ -11,6 +11,8 @@ Bostrom N. The fable of the dragon tyrant. _Journal of Medical Ethics_ 2005;31:2
 
 C’era una volta un drago gigante che tiranneggiava il pianeta. Il drago era più grande della più immensa delle cattedrali, ed era coperto di spesse scaglie nere. I suoi occhi brillavano di luce rossa di odio, e dalle sue mascelle terribili scorreva un flusso incessante di melma verde e fetida. Il drago esigeva dall’umanità un tributo raccapricciante: per soddisfare il suo appetito enorme, ogni giorno al tramonto diecimila uomini e donne dovevano essere consegnati ai piedi della montagna dove viveva. A volte il drago divorava queste anime sfortunate al suo arrivo, a volte li rinchiudeva nella montagna, dove languivano per mesi o anni prima di essere finalmente divorati.
 
+![Drago](/rjevolution/images/dragon.jpeg)
+
 La sofferenza causata dal drago tiranno era incalcolabile. In aggiunta ai dieci mila massacrati orribilmente ogni giorno, c’erano madri, padri, mogli, mariti, figli e amici, afflitti dalla perdita dei loro cari.
 
 Alcuni cercarono di lottare contro il drago, difficile dire se erano coraggiosi o sciocchi. Sacerdoti e maghi lanciarono anatemi senza successo. I guerrieri, armati di coraggio ruggente e con le armi migliori che un fabbro potesse forgiare, lo attaccarono ma furono inceneriti dal suo fuoco prima che potessero avvicinarsi. I chimici inventarono infusioni tossiche e avvalendosi di inganni riuscirono a farle deglutire al drago, ma l’unico effetto apparente fu che stimolò ulteriormente il suo appetito. Gli artigli, le mascelle e il fuoco del drago erano così efficaci, la sua armatura squamosa così inespugnabile, e la sua intera natura così robusta, che lo aveva reso invincibile a qualsiasi attacco dell’uomo.
