@@ -2,7 +2,8 @@
 title: "Ricerca medica: trattare l'invecchiamento"
 date: 2014-7-23T18:45:36+02:00
 draft: false
-tags: ["nature", "papers", "ricerca medica", "fragilità", "salute", "trattare l'invecchiamento"]
+tags: ["geroscienza"]
+categories: ["articoli tradotti", "papers", "Nature"]
 ---
 
 Pubblicato: 23 luglio 2014

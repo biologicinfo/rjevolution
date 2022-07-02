@@ -3,6 +3,7 @@ title: "Morte e motivazione: confutazione delle argomentazioni di Neil deGrasse 
 date: 2022-06-29T21:57:15+02:00
 draft: false
 tags: ["logica", "retorica", "morte", "motivazione", "emozioni", "faq"]
+categories: ["ai"]
 ---
 
 Il fisico Neil deGrasse Tyson sostiene delle argomentazioni un po' curiose riguardo alla morte.

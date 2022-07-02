@@ -2,7 +2,8 @@
 title: "Estendere la Vita Non è Egoistico"
 date: 2022-04-27T18:31:23+02:00
 draft: false
-tags: ["etica", "faq", "leaf", "logica", "traduzioni"]
+tags: ["etica", "faq", "logica"]
+categories: ["articoli tradotti"]
 ---
 
 La discussione sul potenziale di rallentamento o addirittura di inversione dell'invecchiamento è diventata più popolare negli ultimi anni, ma alcuni suggeriscono che è egoistico farlo. L'argomentazione è che le persone interessate ad allungare la vita pensano solo ai propri benefici personali, trascurando il bene comune. Qui valutiamo se questa obiezione all'**estensione della vita umana in buona salute** sia valida.

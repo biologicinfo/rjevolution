@@ -1,11 +1,9 @@
 ---
 title: "Morte e Psicologia"
 date: 2022-07-01T11:07:34+02:00
-draft: false
-tags: ["retorica", "morte", "psicologia", "filosofia", "draft"]
+draft: true
+tags: ["retorica", "morte", "psicologia", "filosofia"]
 ---
-
-(draft)
 
 _"Si può dire che sia l’unica paura: tutte le nostre paure non sono altro che una derivazione della paura di morire. Essa è il polo centrale unificatore, e nascosto, delle nostre emozioni."_ [1]
 

@@ -2,8 +2,9 @@
 title: "Che cos'è la Geroscienza?"
 date: 2021-10-20T11:03:13+02:00
 draft: false
-tags: ["geroscienza", "traduzioni"]
+tags: ["geroscienza"]
 keywords: ["prevenzione", "salute"]
+categories: ["articoli tradotti"]
 ---
 
 > **L'invecchiamento è di gran lunga, e dico di gran lunga, il principale fattore di rischio per tutte le malattie croniche**. Il concetto di geroscienza consiste semplicemente nel riconoscere questo fatto e quindi nel promuovere l'idea che se affrontiamo l'invecchiamento piuttosto che la fisiopatologia specifica di malattie specifiche, otterremo un maggiore contributo alla nostra salute. Saremo in grado di attaccare più malattie allo stesso tempo, perché stiamo attaccando la causa principale di tutte. Questa è la geroscienza.

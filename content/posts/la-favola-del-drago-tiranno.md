@@ -3,6 +3,7 @@ title: "La Favola del Drago Tiranno"
 date: 2022-06-29T19:59:51+02:00
 draft: false
 tags: ["etica", "retorica", "filosofia"]
+categories: ["articoli tradotti", "papers"]
 ---
 
 Bostrom N. The fable of the dragon tyrant. _Journal of Medical Ethics_ 2005;31:273-277. https://doi.org/10.1136/jme.2004.009035.

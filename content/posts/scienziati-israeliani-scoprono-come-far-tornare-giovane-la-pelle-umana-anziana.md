@@ -2,7 +2,8 @@
 title: "Scienziati Israeliani Scoprono Come Far Tornare Giovane La Pelle Umana Anziana"
 date: 2022-06-24T21:30:50+02:00
 draft: false
-tags: ["ringiovanimento", "ricerca", "news", "traduzioni"]
+tags: ["ringiovanimento", "ricerca"]
+categories: ["articoli tradotti", "news"]
 ---
 
 Dopo 20 anni di ricerche, gli scienziati di Haifa affermano di aver trovato il modo di far tornare giovane la pelle umana anziana - nei roditori da laboratorio.

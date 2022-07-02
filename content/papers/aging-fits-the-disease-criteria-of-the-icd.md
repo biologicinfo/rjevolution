@@ -2,7 +2,8 @@
 title: "L'invecchiamento Corrisponde ai Criteri di Malattia della Classificazione Internazionale delle Malattie"
 date: 2020-03-09T00:42:34+02:00
 draft: false
-tags: ["malattia", "definizioni", "salute", "invecchiamento"]
+tags: ["definizioni"]
+categories: ["articoli tradotti", "papers"]
 ---
 
 > Pertanto, concludiamo che l'invecchiamento biologico rientra nei criteri di malattia dell'International Classification of Diseases-11 e può essere legittimamente considerato una malattia.

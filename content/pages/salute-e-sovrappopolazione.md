@@ -3,6 +3,7 @@ title: "Salute vs Sovrappopolazione"
 date: 2022-07-01T12:09:08+02:00
 draft: false
 tags: ["preoccupazioni", "sovrappopolazione", "faq", "etica"]
+categories: ["faq", "pagine"]
 ---
 
 Un'obiezione classica quando si parla di mantenere una salute giovanile a tempo indeterminato (estensione radicale della vita in salute) è:

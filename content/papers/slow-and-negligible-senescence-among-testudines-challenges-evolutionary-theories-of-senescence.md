@@ -3,6 +3,7 @@ title: "Una Senescenza Lenta e Trascurabile Tra le Testudini Sfida le Teorie Evo
 date: 2022-06-24T20:47:06+02:00
 draft: true
 tags: ["natura", "senescenza trascurabile"]
+categories: ["articoli tradotti", "papers"]
 ---
 
 Rita da Silva, Dalia A Conde, Annette Baudisch, Fernando Colchero

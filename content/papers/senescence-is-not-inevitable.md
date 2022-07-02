@@ -2,7 +2,8 @@
 title: "La Senescenza Non È Inevitabile"
 date: 2017-08-28T19:20:17+02:00
 draft: false
-tags: ["evoluzione", "biologia", "papers", "inevitabilità", "natura"]
+tags: ["evoluzione", "natura", "senescenza trascurabile"]
+categories: ["articoli tradotti", "papers"]
 ---
 
 Owen R. Jones and James W. Vaupel

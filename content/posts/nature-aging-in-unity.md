@@ -2,7 +2,8 @@
 title: "Nasce la rivista Nature Aging"
 date: 2022-06-28T10:29:17+02:00
 draft: false
-tags: ["geroscienza", "nature aging", "papers", "traduzioni"]
+tags: ["geroscienza"]
+categories: ["articoli tradotti", "papers"]
 ---
 
 Riportiamo la traduzione del primo editoriale della rivista _Nature Aging_, lanciata nel gennaio 2021, per avere un'idea sull'evoluzione della ricerca scientifica in tema di invecchiamento.

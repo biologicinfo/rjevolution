@@ -3,9 +3,10 @@ title: "L'ipotesi della geroscienza: È possibile modificare il tasso di invecch
 date: 2016-01-01T12:33:30+02:00
 draft: false
 tags: ["geroscienza"]
+categories: ["articoli tradotti", "papers"]
 ---
 
-Steven N. Austad Ph.D. 
+Steven N. Austad Ph.D.
 
 ## Abstract
 

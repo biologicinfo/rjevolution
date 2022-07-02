@@ -2,7 +2,8 @@
 title: "Perché l'Invecchiamento Non È Inevitabile"
 date: 2016-05-09T18:39:57+02:00
 draft: false
-tags: ["natura", "inevitabilità", "evoluzione", "biodiversità", "invecchiamento"]
+tags: ["natura", "senescenza trascurabile", "evoluzione"]
+categories: ["articoli tradotti"]
 ---
 
 La grande varietà di stili di invecchiamento tra piante e animali suggerisce che esso può essere controllato.
@@ -110,7 +111,7 @@ Anche le balene e gli elefanti sono esempi di organismi che sopravvivono alla lo
 
 Nel 2011, Charles Goodnight e io abbiamo avuto un'idea su come potrebbe evolversi la durata della vita post-riproduttiva, un'idea che sembra piuttosto improbabile in astratto, ma quando abbiamo fatto i numeri, si è rivelata vera. Un segmento di popolazione più anziano e "in pensione", sostenevamo, serve a mantenere la popolazione stabile nei cicli di festa e carestia. Quando i tempi sono buoni, mangiano il cibo in eccesso e aiutano a prevenire il superamento della popolazione. Quando il cibo è scarso, sono i primi a morire.
 
-Gli stili di invecchiamento in natura sono i più diversi possibili, il che suggerisce che la natura è in grado di accendere e spegnere l'invecchiamento a piacimento. Con questo in mente, possiamo essere perdonati per considerare con estremo scetticismo le teorie che spiegano perché l'invecchiamento deve esistere. Qualunque sia la nostra teoria dell'invecchiamento, è meglio che faccia spazio alla plasticità, alla diversità e alle eccezioni.
+Gli stili di invecchiamento in natura sono i più diversi possibili, il che suggerisce che la natura è in grado di accendere e spegnere l'invecchiamento a piacimento. Con questo in mente, **possiamo essere perdonati per considerare con estremo scetticismo le teorie che spiegano perché l'invecchiamento deve esistere. Qualunque sia la nostra teoria dell'invecchiamento, è meglio che faccia spazio alla plasticità, alla diversità e alle eccezioni**.
 
 ---
 

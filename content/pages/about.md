@@ -2,6 +2,7 @@
 title: "About"
 date: 2022-06-28T09:08:18+02:00
 draft: false
+categories: ["pagine"]
 ---
 
 In un contesto in cui i progressi tecnologici vanno veloci ma regna la confusione dal punto di vista dell'informazione, questo sito cerca di chiarire tutti gli aspetti relativi a salute, invecchiamento, ringiovanimento, eterna giovinezza, estensione della vita, inquadrandoli nel contesto biologico, evoluzionistico, psicologico ed etico.
