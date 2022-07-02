@@ -39,8 +39,9 @@ Chi sostiene che l'estensione radicale della vita causerebbe certamente sovrappo
 1. Tasso di riproduzione costante (nessun cambiamento nella pianificazione della vita nel caso in cui non si invecchiasse)
 1. Immobilità tecnologica
 1. Credere che una salute giovanile implichi invulnerabilità
+1. Sopravvalutazione dell'impatto a livello demografico
 
-In sostanza si tende ad assumere immediatamente che cambi una sola variabile mentre tutto il resto rimarrebbe uguale.
+In sostanza si tende ad assumere immediatamente che cambi una sola variabile mentre tutto il resto rimanga uguale, il che è altamente improbabile.
 Se invece si rileva che tutte le variabili sono in continuo cambiamento, si aprono infinite soluzioni a questo potenziale problema.
 
 Infatti non si tiene conto che:
@@ -52,8 +53,11 @@ Infatti non si tiene conto che:
     - migliora il risparmio energetico e la distribuzione delle risorse
     - diventerà possibile un'enorme espansione fuori dalla Terra (vedi [The Last Human – A Glimpse Into The Far Future | Kurzgesagt – In a Nutshell](https://youtu.be/LEENEFaVUzU))
 1. La fine dell'invecchiamento biologico non significherebbe l'eliminazione totale della morte
+1. Non avrebbe un impatto così grande come si crede, rispetto alle variazioni di natalità (https://youtu.be/fX9P1xuIJGg?t=2793)
 
 Per chi credesse che siamo già in un problema di sovrappopolazione, be' sembra che sia uno dei miti duri a morire [2][Overpopulation – The Human Explosion Explained | Kurzgesagt – In a Nutshell](https://youtu.be/QsBT5EQt348).
+
+Cosa succederebbe se il problema dell'invecchiamento per magia non esistesse più nel 2025? https://youtu.be/fX9P1xuIJGg?t=2793
 
 ## 3 - Inconsistenza qualitativa: la potenziale sovrappopolazione non sarebbe qualitativamente un problema maggiore di quello attuale
 
@@ -75,7 +79,7 @@ Ma dato che non siamo robot o conigli, possiamo agire in moltissimi altri modi, 
 
 ## Letture e video consigliati
 
+- [Supponiamo che l'invecchiamento scompaia nel 2025. Che impatto avrebbe sulla popolazione?](https://youtu.be/fX9P1xuIJGg?t=2793)
 - [Perché il calo delle nascite può essere una buona notizia | Il Tascabile](https://www.iltascabile.com/scienze/declino-nascite/)
 - [Il calo delle nascite è un bene o un male? | Il Post](https://www.ilpost.it/2021/07/16/calo-nascite/)
 - [Overpopulation – The Human Explosion Explained | Kurzgesagt – In a Nutshell](https://youtu.be/QsBT5EQt348)
-- [What Is Life Extension? | LifeXtenShow](https://youtu.be/OzCzCWAxs2g)

@@ -60,7 +60,7 @@ Allo stesso modo, non molti sollevano il potenziale effetto collaterale della so
 
 ## Il prolungamento della vita è l'opposto dell'egoismo
 
-In conclusione, qualcuno è egoista quando le sue azioni vanno a beneficio solo di lui a scapito degli altri; se fatto bene, il prolungamento della vita sarà il più grande beneficio di tutti i tempi, per gli individui, i loro cari e la società in generale. È difficile immaginare come tutto ciò possa essere considerato egoista.
+In conclusione, qualcuno è egoista quando le sue azioni vanno a beneficio solo di lui a scapito degli altri; se fatto bene, l'estensione della vita sarà il più grande beneficio di tutti i tempi, per gli individui, i loro cari e la società in generale. È difficile immaginare come tutto ciò possa essere considerato egoista.
 
 Traduzione di: https://www.lifespan.io/topic/life-extension-is-not-selfish/
 
@@ -68,3 +68,4 @@ Traduzione di: https://www.lifespan.io/topic/life-extension-is-not-selfish/
 
 * [Why Age? Should We End Aging Forever? | Kurzgesagt – In a Nutshell](https://youtu.be/GoJsr4IwCm4)
 * https://business.facebook.com/RejuvenatingMemesForMillenarianTeens/photos/a.870564139762698/874513352701110
+* [Questioni etiche: invertire la domanda](https://youtu.be/fX9P1xuIJGg?t=2980)
