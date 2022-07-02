@@ -1,5 +1,5 @@
 ---
-title: "L'ipotesi della geroscienza: È possibile modificare il tasso di invecchiamento?"
+title: "L'ipotesi della geroscienza: È possibile modificare il tasso di invecchiamento? | Advances in Geroscience"
 date: 2016-01-01T12:33:30+02:00
 draft: false
 tags: ["geroscienza"]
