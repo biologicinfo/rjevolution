@@ -57,13 +57,15 @@ Infatti non si tiene conto che:
 
 Per chi credesse che siamo già in un problema di sovrappopolazione, be' sembra che sia uno dei miti duri a morire [2][Overpopulation – The Human Explosion Explained | Kurzgesagt – In a Nutshell](https://youtu.be/QsBT5EQt348).
 
-Cosa succederebbe se il problema dell'invecchiamento per magia non esistesse più nel 2025? https://youtu.be/fX9P1xuIJGg?t=2793
+Secondo altri studi seri, c'è addirittura un problema di _sottopopolazione_, e la cura dell'invecchiamento potrebbe essere una soluzione alla sottopopolazione: https://youtu.be/fX9P1xuIJGg?t=2966.
+
+Comunque, cosa succederebbe se il problema dell'invecchiamento per magia non esistesse più nel 2025? https://youtu.be/fX9P1xuIJGg?t=2793
 
 ## 3 - Inconsistenza qualitativa: la potenziale sovrappopolazione non sarebbe qualitativamente un problema maggiore di quello attuale
 
 Il problema di una eventuale sovrappopolazione quale sarebbe? Che alcune persone non avrebbero risorse, spazi, cibo, e quindi avrebbero una ridotta qualità di vita e potrebbero soffrire o addirittura morire (ad esempio di fame).
 
-D'altra parte anche lasciare che l'invecchiamento fisico faccia il suo corso causa riduzione di salute, di qualità di vita, malattie[3] e morte. Quindi è lo stesso tipo di problema, che è il massimo problema possibile: sofferenza, perdita di salute e morte.
+D'altra parte, anche lasciare che l'invecchiamento fisico faccia il suo corso causa riduzione di salute, di qualità di vita, malattie[3] e morte. Quindi è lo stesso tipo di problema, che è il massimo problema possibile: sofferenza, perdita di salute e morte. Non accadrebbe nulla di tragico in più rispetto ad ora.
 
 L'unica differenza, nel caso in cui lo scenario di sovrappopolazione si verificasse, sarebbe che ci sarebbero più persone che vanno prima incontro a sofferenza e morte. E per le altre il problema sarebbe solo posticipato, non risolto.
 
@@ -79,7 +81,6 @@ Ma dato che non siamo robot o conigli, possiamo agire in moltissimi altri modi, 
 
 ## Letture e video consigliati
 
-- [Supponiamo che l'invecchiamento scompaia nel 2025. Che impatto avrebbe sulla popolazione?](https://youtu.be/fX9P1xuIJGg?t=2793)
 - [Perché il calo delle nascite può essere una buona notizia | Il Tascabile](https://www.iltascabile.com/scienze/declino-nascite/)
 - [Il calo delle nascite è un bene o un male? | Il Post](https://www.ilpost.it/2021/07/16/calo-nascite/)
 - [Overpopulation – The Human Explosion Explained | Kurzgesagt – In a Nutshell](https://youtu.be/QsBT5EQt348)
