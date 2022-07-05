@@ -1,14 +1,16 @@
 ---
-title: "Nasce la rivista Nature Aging"
-date: 2022-06-28T10:29:17+02:00
+title: "Nasce la rivista Nature Aging che accompagna un cambio di paradigma nella lotta alle malattie"
+date: 2021-01-14T10:29:17+02:00
 draft: false
 tags: ["geroscienza"]
 categories: ["articoli tradotti", "papers"]
 ---
 
-Riportiamo la traduzione del primo editoriale della rivista _Nature Aging_, lanciata nel gennaio 2021, per avere un'idea sull'evoluzione della ricerca scientifica in tema di invecchiamento.
+Riportiamo la traduzione del primo editoriale della rivista _Nature Aging_, lanciata nel gennaio 2021, per avere un'idea sull'evoluzione della ricerca scientifica in tema di invecchiamento e salute.
 
 # Aging in Unity
+
+![Primo editoriale della rivista scientifica Nature Aging](/rjevolution/images/papers/aging-in-unity.png)
 
 Editoriale | Pubblicato: 14 Gennaio 2021
 
@@ -30,6 +32,6 @@ Questo primo numero riflette veramente l'ampio obiettivo tematico di questa rivi
 
 È un momento eccitante per lavorare sull'invecchiamento. È stata stabilita una forte base biologica e la nostra comprensione dei processi di invecchiamento è in continuo sviluppo. C'è una pletora di nuove stimolanti scoperte e iniziative che alimentano diversi flussi di ricerca in laboratorio, nella clinica e nella comunità. Fondamentalmente, c'è una motivazione sempre crescente per affrontare le sfide dell'invecchiamento della popolazione globale e reimmaginare punti di vista e sistemi sociali a lungo sostenuti per cogliere le opportunità che presentano. Siamo entusiasti di diventare un partner della comunità per questi sforzi e non vediamo l'ora di assistere a quella che ci aspettiamo sia la continua crescita di un campo di ricerca unificato sull'invecchiamento."
 
-Fonte:
+## Cita questo paper
 
-Aging in unity. _Nat Aging_ 1, 1 (2021). https://doi.org/10.1038/s43587-020-00022-2
+Aging in unity. _Nature Aging_ 1, 1 (2021). https://doi.org/10.1038/s43587-020-00022-2
