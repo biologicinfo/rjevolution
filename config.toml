@@ -3,6 +3,7 @@ languageCode = 'it-it'
 DefaultContentLanguage = "it"
 title = 'Scienze biologiche e ringiovanimento'
 theme = "ananke"
+googleAnalytics = "G-H41E1B9G7L"
 
 [params]
   text_color = ""
