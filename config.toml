@@ -1,7 +1,7 @@
 baseURL = 'https://biologicinfo.github.io/rjevolution'
 languageCode = 'it-it'
 DefaultContentLanguage = "it"
-title = 'Scienze biologiche e ringiovanimento'
+title = 'Etica ed Evoluzione del Ringiovanimento'
 theme = "ananke"
 googleAnalytics = "G-H41E1B9G7L"
 
