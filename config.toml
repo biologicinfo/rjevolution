@@ -28,7 +28,7 @@ name = "News"
 weight = 0
 identifier = "news" # this button will refer to a markdown file named "news" in the content folder
 pre = "<br />"
-url = "/pages/news"
+url = "/news"
 
 [[menu.main]]
 name = "Pagine"
